@@ -3,7 +3,7 @@
 * Criado por Marcos Fabricio Sizanosky
 * Professor: Jefferson Santos
 * Data criação: 26/05/2021
-  Programa em Python 3 para coletar dados de um web site.
+  Programa em Python 3 para coletar dados de um website.
 """
 
 import csv
