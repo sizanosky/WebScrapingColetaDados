@@ -1,2 +1,3 @@
 # WebScrapingColetaDados
-Projeto para coletar dados de websites
+
+Projeto em Python3 para coletar dados de websites
